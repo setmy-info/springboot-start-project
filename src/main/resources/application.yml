@@ -28,3 +28,6 @@ example:
 
 scheduler:
     timeInMillis: 60000
+
+features:
+    foo: false
